@@ -5,7 +5,6 @@ Hello👋, Chethan Gowda K V here
 🌱 I’m currently learning FSWD(Full Stack Web Development),MERN stack<br><br>
 🔭 I’m currently working on Connect-Blood(Blood-Donation website)<br><br>
 💬 Ask me about Programming,FSWD<br>
-👍 Checkout my resume here
 🙌 Reach out to me at cchethangowda53@gmail.com
 
 
